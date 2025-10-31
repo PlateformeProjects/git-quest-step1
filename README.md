@@ -1,5 +1,8 @@
 # 🏴‍☠️ La quête du trésor du Capitaine Gitbeard
 
+![Texte alternatif](gitbeard.png)
+
+
 > "Ohé moussaillons !  
 > J’ai caché mon trésor quelque part…  
 > Trois fragments indiquent la **planque**.  
