@@ -1,6 +1,6 @@
 # 🏴‍☠️ La quête du trésor du Capitaine Gitbeard
 
-![Texte alternatif](gitbeard.png)
+![Gitbeard](git.png)
 
 
 > "Ohé moussaillons !  
